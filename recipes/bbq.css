@@ -5,11 +5,11 @@
     color: #1F2421;
 }
 
-ul{
-    list-style: none;
-}
-
 img{
     width: auto;
-    height: 200px;
+    height: 400px;
+}
+
+ul{
+    list-style: none;
 }
